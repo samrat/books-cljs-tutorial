@@ -1,0 +1,9 @@
+pom.xml
+*jar
+/target/
+/.lein-cljsbuild-compiler-0/
+/lib/
+/db/
+/classes/
+.lein-deps-sum
+.cake
